@@ -1,0 +1,5 @@
+# os files
+.os*
+
+# sensitive data
+.env*
